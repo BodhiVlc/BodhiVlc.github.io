@@ -23,6 +23,6 @@ li a {
 
 li a:hover {
   background-color: lightgrey;
-  color:black;
-  top: 10%;
+  color:rgb(174, 56, 56);
+  margin-top: 10%;
 }
