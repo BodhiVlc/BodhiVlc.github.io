@@ -16,12 +16,12 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 16px;
+  padding: 0px;
   text-decoration: none;
  
 }
 
 li a:hover {
-  background-color: rgb(24, 56, 235);
+  background-color: rgb(235, 225, 24);
   color:black;
 }
