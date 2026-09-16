@@ -17,11 +17,10 @@ li a {
   text-align: center;
   padding: 16px;
   text-decoration: none;
-  top: 0px;
+  margin-top: 0px;
 }
 
 li a:hover {
-  background-color: rgb(80, 49, 49);
+  background-color: rgb(255, 0, 238);
   color:black;
-  top: 10%;
 }
