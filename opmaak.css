@@ -24,5 +24,5 @@ li a {
 li a:hover {
   background-color: lightgrey;
   color:rgb(174, 56, 56);
-  animation: infinite;
+  animation: ease-in;
 }
