@@ -6,11 +6,10 @@ ul {
   background-color: #333333;
   top: 0%;
   width: 100%;
-  position: relative;
 }
 
 li {
-  float: left;
+  float: none;
 }
 
 li a {
