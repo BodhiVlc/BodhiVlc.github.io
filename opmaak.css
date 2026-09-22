@@ -26,3 +26,14 @@ li a:hover {
   color:black;
 
 }
+
+.DropDownInMenu {
+
+}
+
+.DropDownInMenu:hover > ul
+{
+    /* On hover, display the next level's menu */
+    position: relative;
+    display: inline-block;
+}
