@@ -61,7 +61,7 @@ li a:hover {
 
 
 .DropDownInMenu {
-   position: absolute;
+   position: relative;
     top: 30px;
     left: 0;
     width: 150px;
@@ -77,6 +77,6 @@ li a:hover {
   text-align: center;
   padding: 16px;
   text-decoration:wavy;
-  background-color: rgb(215, 2, 137);
+  background-color: rgb(78, 175, 220);
 }
 
