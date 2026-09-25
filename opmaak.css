@@ -27,7 +27,7 @@ li a:hover {
 
 }
 
-.TopMenu {
+.TopMenu > ul {
   display: block;
   color: white;
   text-align: center;
@@ -40,8 +40,26 @@ li a:hover {
 {
     /* On hover, display the next level's menu */
     position: relative;
-    display: inline-block;
+    display: inline;
     background-color: rgb(127, 34, 34);
     color:black;
+}
+
+.DropDownInMenu {
+   display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration:wavy;
+  background-color: darkgreen;
+}
+
+.DropDownInMenu a:hover {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration:wavy;
+  background-color: rgb(215, 2, 137);
 }
 
