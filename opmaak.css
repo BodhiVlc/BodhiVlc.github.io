@@ -28,7 +28,7 @@ li a:hover {
 }
 
 .TopMenu > ul {
-    list-style-type: none;
+   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -50,7 +50,7 @@ li a:hover {
   text-decoration:wavy;
 }
 
-.TopMenu:hover > ul
+.TopMenu li:hover> ul
 {
     /* On hover, display the next level's menu */
     position: relative;
@@ -66,7 +66,7 @@ li a:hover {
   text-align: center;
   padding: 16px;
   text-decoration:wavy;
-  background-color: darkgreen;
+  background-color: rgb(165, 197, 51);
 }
 
 .DropDownInMenu a:hover {
