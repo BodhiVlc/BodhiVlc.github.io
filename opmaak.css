@@ -28,7 +28,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: rgb(85, 83, 83);
 }
 
 li.dropdown {
