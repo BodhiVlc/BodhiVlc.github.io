@@ -70,6 +70,12 @@ li.dropdown {
 text-align: center;
 }
 
+.Over {
+  text-align: left;
+  max-width: 50%;
+  float:left
+}
+
 .Mij {
   max-width: 45%;
 }
