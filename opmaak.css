@@ -21,8 +21,9 @@ ul {
 }
 
 li {
-  float:left
   text-align: right;
+  float:left
+
 }
 
 li a, .dropbtn {
