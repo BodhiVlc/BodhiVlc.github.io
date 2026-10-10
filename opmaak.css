@@ -88,4 +88,6 @@ text-align: center;
 
 .In-uit {
   max-width: 45%;
+  float: left;
+  text-align: left;
 }
