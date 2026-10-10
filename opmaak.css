@@ -11,6 +11,9 @@ h1, p {
   margin: 10px;
 }
 
+/*Dropdown Meny */
+
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -66,9 +69,8 @@ li.dropdown {
 }
 
 
-.binary-bonanza {
-text-align: center;
-}
+
+/* home pagina */
 
 .Over {
   text-align: left;
@@ -91,4 +93,11 @@ text-align: center;
   float: left;
   text-align: left;
   margin-top: 50px;
+}
+
+
+/*Binairstelsel*/
+
+.binary-bonanza {
+text-align: center;
 }
