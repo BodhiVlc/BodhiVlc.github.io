@@ -83,6 +83,7 @@ text-align: center;
 .Katten {
   float: right;
   text-align: right;
+  max-width: 45%;
 }
 
 .In-uit {
