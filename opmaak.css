@@ -17,7 +17,7 @@ ul {
   overflow: hidden;
   background-color: #38444d;
   text-align:right;
-  float: inline-end;
+  float: left;
 }
 
 li {
