@@ -115,7 +115,8 @@ color: magenta
 }
 
 .Yellow{
-color: yellow
+color: yellow;
+text-shadow: #38444d;
 }
 
 .Black{
