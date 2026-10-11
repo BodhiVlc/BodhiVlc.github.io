@@ -1,10 +1,10 @@
-body {
+body { /*Dit geeft de regels voor alles zonder verdere  veranderingen*/
   margin: 0;
   padding: 0;
 }
 
-h3, p{
-  margin: 10px;
+h3, p{  /*Dit zegt waar het overgaat*/
+  margin: 10px; /*Er zit een 10px randje tussen dit element en de rest*/
 }
 
 h2, p {
@@ -19,30 +19,30 @@ h1, p {
 
 
 ul {
-  list-style-type: none;
+  list-style-type: none; /*Dit zegt hoe je lijst er uit moet zien*/
   margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #38444d;
+  padding: 0; /*Hoe dik een zichtbaar randje moet zijn*/
+  overflow: hidden; /*Gaat over overlap denk ik*/
+  background-color: #38444d; /*Hoe de achtergrond kleur van dit element er uit moet zien*/
   
 }
 
 li {
-  text-align: right;
-  float:left
+  text-align: right; /*Aan welke kant de text moet staan binnen de beschikbaren ruimten*/
+  float:left /*Aan welke kant de beschikbaren ruimten moet starten*/
 
 }
 
 li a, .dropbtn {
-  display: block;
-  color: white;
+  display: block; /*Beschrijft de vorm*/
+  color: white; /*Zegt de kleur van het element*/
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  padding: 14px 16px; /*de twee getallen zijn voor de x en de y*/
+  text-decoration: none; /*Extra variatie voor hoe je text er uit moet zien*/
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: rgb(85, 83, 83);
+  background-color: rgb(85, 83, 83); /*Welke kleur de achtergrond van dit element moet hebben*/
 }
 
 li.dropdown {
@@ -51,11 +51,11 @@ li.dropdown {
 
 .dropdown-content {
   display: none;
-  position: absolute;
+  position: absolute; /*Waar het element moet staan*/
   background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+  min-width: 160px; /*Hoe wijd het element minimaal moet zijn*/
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /*de groten, lengete en kleur van de schaduw van een element */
+  z-index: 1; /*Weet ik niet, ik ben te bang om te veel aan te passen.*/
 }
 
 .dropdown-content a {
@@ -66,7 +66,7 @@ li.dropdown {
   text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown-content a:hover {background-color: #f1f1f1;}   /*de a:hover zegt dat deze regels moeten worden toegepast aan het element waneer de muis over de link heen zweeft */
 
 .dropdown:hover .dropdown-content {
   display: block;
@@ -78,7 +78,7 @@ li.dropdown {
 
 .Over {
   text-align: left;
-  max-width: 50%;
+  max-width: 50%; /*Hoe wijdt die maximaal mag zijn.*/
   float:left
 }
 
@@ -100,7 +100,7 @@ li.dropdown {
   max-width: 45%;
   float: left;
   text-align: left;
-  margin-top: 50px;
+  margin-top: 50px; /*Hoeveel ruimten tussen dit element die die daar boven moet zitten*/
 }
 
 
@@ -154,7 +154,7 @@ background-color: #38444d;
 }
 
 .Black{
-  font-weight: bold;
+  font-weight: bold; /*Zegt hoe de text er uit moet zien, dit keer dik gedrukt.*/
 }
 
 /*Bitmap / Vector*/
