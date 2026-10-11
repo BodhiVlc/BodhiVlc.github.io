@@ -11,7 +11,7 @@ h1, p {
   margin: 10px;
 }
 
-/*Dropdown Meny */
+/*Dropdown Menu */
 
 
 ul {
@@ -140,6 +140,6 @@ background-color: #38444d;
 }
 
 .Black{
-  text-decoration: solid;
+  font-weight: bold;
 }
 
