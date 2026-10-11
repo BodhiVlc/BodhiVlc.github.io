@@ -145,3 +145,14 @@ background-color: #38444d;
   font-weight: bold;
 }
 
+/*Bitmap / Vector*/
+
+.Bitmap {
+  float: left;
+  max-width: 50%;
+}
+
+.Vector {
+  float: right;
+  max-width: 50%;
+}
