@@ -88,6 +88,10 @@ li.dropdown {
   max-width: 50%;
 }
 
+.TitelKat {
+  text-align: left;
+}
+
 .In-uit {
   max-width: 45%;
   float: left;
@@ -102,9 +106,7 @@ li.dropdown {
 text-align: center;
 }
 
-.TitelKat {
-  margin-right: 10%;
-}
+
 
 /*Kleurmoddelen*/
 
