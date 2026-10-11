@@ -106,6 +106,26 @@ text-align: center;
 
 /*Kleurmoddelen*/
 
+.RGB {
+  max-width: 60%;
+}
+
+.Rood {
+color: red;
+}
+
+.Groen {
+color: green;
+}
+
+.Blauw {
+color: blue;
+}
+
+.CMY {
+  max-width: 60%;
+}
+
 .Cyan {
 color: cyan
 }
@@ -122,3 +142,4 @@ text-shadow: #38444d;
 .Black{
   text-decoration: solid;
 }
+
