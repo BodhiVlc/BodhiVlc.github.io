@@ -3,6 +3,10 @@ body {
   padding: 0;
 }
 
+h3, p{
+  margin: 10px;
+}
+
 h2, p {
   margin: 10px;
 
