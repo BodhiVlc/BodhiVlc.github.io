@@ -169,3 +169,13 @@ background-color: #38444d;
 .Compresie {
   text-align: center;
 }
+
+.C_Afbeeldingen{
+float: left;
+max-width: 50%;
+}
+
+.C_Geluid{
+float: right;
+max-width: 50%;
+}
